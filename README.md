@@ -18,7 +18,6 @@ Busco sempre crescer como profissional, contribuindo com projetos e aprendendo n
   <img align="center" alt="Alisson-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alisson-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alisson-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alisson-powerbi" height="30" width="40" src="https://www.svgrepo.com/show/374144/power-bi.svg">
 </div>
 
 ---
@@ -37,15 +36,6 @@ Busco sempre crescer como profissional, contribuindo com projetos e aprendendo n
 - 🔧 Atuação anterior com **infraestrutura de TI**, redes e servidores  
 - ⚙️ Práticas e automações com **DevOps**  
 - 💡 Entusiasta de tecnologia, sempre aprendendo e criando projetos no tempo livre
-
----
-
-### 📈 Estatísticas GitHub
-
-![Alisson GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisson-github&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-github&layout=compact&theme=radical)
-
----
 
 ### 🌐 Conecte-se comigo
 
