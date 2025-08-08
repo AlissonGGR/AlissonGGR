@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Alisson, desenvolvedor apaixonado por tecnologia e dados!
 
 Atualmente sou **Desenvolvedor .NET** na **Datavale Tecnologia & Sistemas**  
-🎓 Estudante de **Sistemas de Informação** (3º semestre) na **FEF - Fundação Educacional de Fernandópolis**
+🎓 Estudante de **Sistemas de Informação** (4º semestre) na **FEF - Fundação Educacional de Fernandópolis**
 
 Tenho experiência com back-end, bancos de dados, BI, e já atuei também com infraestrutura e DevOps.  
 Busco sempre crescer como profissional, contribuindo com projetos e aprendendo novas tecnologias! 🚀
