@@ -1,8 +1,11 @@
 ## ⭐ Bem-vindos ao meu Git ⭐
 
 👨‍💻**Desenvolvedor Full Stack em VB.NET** na **Datavale Tecnologia & Sistemas**  
+
 🎓 Estudante de **Sistemas de Informação** (4º semestre) na **FEF - Fundação Educacional de Fernandópolis**
+
 🎶 **A música é capaz de reproduzir, em sua forma real, a dor que dilacera a alma e o sorriso que inebria.**
+
 🚀 Sempre buscando evoluir como pessoa e profissional.
 
 ---
