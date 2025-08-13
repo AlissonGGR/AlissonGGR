@@ -1,10 +1,8 @@
-## 👋 Olá! Eu sou o Alisson, desenvolvedor apaixonado por tecnologia e dados!
+## ⭐ Bem-vindos ao meu Git ⭐
 
-Atualmente sou **Desenvolvedor .NET** na **Datavale Tecnologia & Sistemas**  
+👨‍💻**Desenvolvedor .NET** na **Datavale Tecnologia & Sistemas**  
 🎓 Estudante de **Sistemas de Informação** (4º semestre) na **FEF - Fundação Educacional de Fernandópolis**
-
-Tenho experiência com back-end, bancos de dados, BI, e já atuei também com infraestrutura e DevOps.  
-Busco sempre crescer como profissional, contribuindo com projetos e aprendendo novas tecnologias! 🚀
+🚀 Sempre buscando evoluir como pessoa e profissional.
 
 ---
 
@@ -22,20 +20,20 @@ Busco sempre crescer como profissional, contribuindo com projetos e aprendendo n
 
 ---
 
+### 🧰 Outras Experiências
+
+- 🔧 Atuação anterior com **infraestrutura de TI**, redes e servidores  
+- ⚙️ Práticas e automações com **DevOps**  
+- 💡 Entusiasta de tecnologia, sempre aprendendo e criando projetos no tempo livre
+
+---
+
 ### 📊 Power BI & Dados
 
 - 🧠 **Nível avançado** em Power BI  
 - 📚 Certificado pela **Xperiun**  
 - 📊 Vários **projetos de BI publicados** com foco em visualização de dados e análises estratégicas  
 - 💾 Proeficiência em **PLSQL, Oracle e MySQL**
-
----
-
-### 🧰 Outras Experiências
-
-- 🔧 Atuação anterior com **infraestrutura de TI**, redes e servidores  
-- ⚙️ Práticas e automações com **DevOps**  
-- 💡 Entusiasta de tecnologia, sempre aprendendo e criando projetos no tempo livre
 
 ### 🌐 Conecte-se comigo
 
